@@ -1,0 +1,2 @@
+//exerc: https://programacaodescomplicada.wordpress.com/complementar/
+//curso udemy - Linguagem C - básico: https://www.udemy.com/course/c-e-c-fundamentos-para-logica-de-programacao/learn/lecture/10410428#overview
